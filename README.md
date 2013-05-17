@@ -1,0 +1,4 @@
+bbcmagazine
+===========
+
+ BBC News Magazine
